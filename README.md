@@ -1,8 +1,9 @@
-###CSV Processing API 
+### CSV Processing API 
+
 ## Introduction  
 This project provides an API for handling CSV files with authentication and data processing features. You can use this API to upload, process, and manage CSV files, as well as generate demo data for testing.  
 ## Getting Started  
-### Clone the Repository  To get started, first clone the repository to your local machine:  
+## Clone the Repository  To get started, first clone the repository to your local machine:  
 
 `git clone ____________`
 
