@@ -1,0 +1,51 @@
+product_id,product_name,category,price,quantity_sold,rating,review_count
+1889,Gaming Console,Home Entertainment,289,326,,3882
+9792,Portable Charger,Accessories,490,,5,2105
+cada,Router,Gaming,1922,408,3,1427
+cee6,Digital Camera,Mobile Phones,,882,4,1055
+88f4,Smartwatch,Gaming,119,868,,3341
+bd3d,Gaming Console,Camera,888,120,1,4223
+d017,Portable Charger,Gaming,541,156,1,4277
+071e,Laptop,Gaming,40,657,5,4660
+5904,Smartphone,Home Entertainment,1762,411,5,1194
+57fc,Router,Accessories,,459,1,4186
+92fa,Laptop,Mobile Phones,479,144,3,1865
+2821,Drone,Home Entertainment,204,,5,1618
+ff30,Laptop,Gaming,1560,845,1,3884
+c706,Tablet,Audio,,21,2,2936
+939,Smartwatch,Accessories,1339,930,3,54
+a78a,Projector,Gaming,1475,502,1,248
+7a65,Headphones,Mobile Phones,239,872,3,3881
+0aee,Smart TV,Gaming,1979,997,2,2010
+40da,Bluetooth Speaker,Home Entertainment,,62,3,3549
+c780,Router,Camera,1077,938,,4624
+b179,Printer,Mobile Phones,1116,379,5,2088
+f796,Keyboard,Gaming,1683,74,4,4822
+bdc0,Mouse,Home Entertainment,263,,3,4999
+3a68,Keyboard,Camera,427,891,4,2456
+f246,Bluetooth Speaker,Wearable Tech,183,257,4,566
+4089,Monitor,Computers,899,567,3,1734
+418c,Smartphone,Gaming,1845,31,3,2200
+ede4,Printer,Accessories,,218,,1548
+3046,Drone,Wearable Tech,1640,954,2,4371
+2aca,Portable Charger,Computers,1379,204,3,1033
+6aac,Monitor,Wearable Tech,33,503,2,4341
+3b4f,Smart TV,Home Entertainment,892,516,3,1553
+bd42,Projector,Computers,443,293,1,3990
+5e4e,Mouse,Audio,457,35,1,4809
+ec56,Smartphone,Wearable Tech,1735,905,2,1686
+7.20E+01,Smartphone,Computers,698,18,3,4203
+fd9f,Monitor,Mobile Phones,1549,268,2,347
+7a1a,Drone,Computers,956,68,3,1129
+f4a8,Laptop,Wearable Tech,793,613,,4215
+5da1,Projector,Camera,1591,467,1,1955
+4.60E+08,Drone,Mobile Phones,102,714,4,1867
+fb77,Digital Camera,Computers,158,628,2,4829
+a9f9,Printer,Wearable Tech,1430,959,2,4483
+6bd0,Digital Camera,Camera,439,,3,4531
+d316,Monitor,Wearable Tech,,548,2,1742
+51cf,Headphones,Accessories,1083,832,1,3091
+8fec,Router,Gaming,1999,490,,350
+05f5,Smartwatch,Gaming,948,653,2,3399
+9b58,Keyboard,Accessories,,302,1,4935
+b605,Bluetooth Speaker,Audio,1557,50,2,3025
